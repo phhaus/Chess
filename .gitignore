@@ -1,2 +1,8 @@
 # local idea files
 .idea
+# readme
+README.md
+# training data
+*.npz
+# images
+*.png
